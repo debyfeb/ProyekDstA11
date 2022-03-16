@@ -311,7 +311,7 @@ span {
 }
 
 @media screen and (max-width: 1000px) {
-  .column {
+  header footer .column .header-right {
     width: 100%;
     display: block;
   }
